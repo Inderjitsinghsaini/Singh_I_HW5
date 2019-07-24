@@ -73,7 +73,7 @@ em{
 
 #mainNav button
 {
- background: url(../images/burger.png) center no-repeat;
+ background: url(../images/burger.svg) center no-repeat;
  border:0;
  width:60px;
  height:60px;
@@ -170,7 +170,7 @@ em{
 
 }
 
-#dropCap
+.dropCap
 {
 	font-size: 100px;
 	font-weight: 400;
@@ -196,7 +196,7 @@ em{
 	height:536.66px;
 	margin-left:74px;	
 }
-#mail
+.mail
 {
 	color:#284726;
 	font-size:30px;
@@ -248,7 +248,7 @@ em{
   text-transform:uppercase;
   font-size: 0.875em;
   margin-left: auto;
-  margin-top:50px;
+  margin-top:60px;
 }
 
 #burgerMenu{text-align:right;}
@@ -278,11 +278,6 @@ em{
 
 #mainNav li:lastChild{margin-bottom:0;}
 
-#searchForm{
-  width: 97%;
-  order:-1;
-  margin:0 0 50px;
-}
 
 #logoCon{order:-1;}
 #Logo{max-width:160px; margin-left:20px;}
